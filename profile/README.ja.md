@@ -29,7 +29,8 @@
 
 ```bash
 # Claude Code
-claude plugin install actver-dev/skills
+claude plugin marketplace add actver-dev/skills
+claude plugin install actver
 
 # その他のエージェント（Cursor、Copilot 等）
 npx skills add actver-dev/skills

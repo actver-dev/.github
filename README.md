@@ -9,3 +9,4 @@
 | `profile/README.md` | org プロフィールページ（英語） |
 | `profile/README.ja.md` | org プロフィールページ（日本語） |
 | `.github/FUNDING.yml` | org 全体のデフォルトスポンサー設定 |
+| `SECURITY.md` | org 共通のセキュリティポリシー（英語 / 日本語） |

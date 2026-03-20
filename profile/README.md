@@ -29,7 +29,8 @@ Stop digging through release pages. Get the version you need in one request.
 
 ```bash
 # Claude Code
-claude plugin install actver-dev/skills
+claude plugin marketplace add actver-dev/skills
+claude plugin install actver
 
 # Other agents (Cursor, Copilot, etc.)
 npx skills add actver-dev/skills
